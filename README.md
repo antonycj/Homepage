@@ -3,7 +3,7 @@ Hi, I’m David Jackson, a data analyst and researcher with a background in poli
 
 ### Projects
 1. [Vote Choice and Personal Characteristics Analysis] () - Logistic regression models examining the impact of percived personal characterstics of candidates on how people vote.
-2. [Roll Call Vote Textual Extraction and Mapping]() - Used Python to extract roll call votes from an archival text, transform it into quantitative data, and visualize data.
+2. [Roll Call Vote Textual Extraction and Mapping](https://github.com/antonycj/Roll-Call-Vote-Extraction-and-Analysis) - Used Python to extract roll call votes from an archival text, transform it into quantitative data, and visualize data.
 
 ### Skills
 Python | R | SQL | Tableau | Regression | Data Visualization | Machine Learning
