@@ -1,5 +1,5 @@
-# A. David Jackson - Portfolio
-Hi, I’m David Jackson, a data analyst and researcher with a background in political science and quantitative methods. I use Python, R, stata and statistical modeling to turn complex data into clear, actionable insights.  
+# David Jackson - Portfolio
+Hi, I’m David Jackson, a epidemiological data analyst on the HIV surveillance team for the Office of Epidemiology in the Missouri Department of Health and Senior Services. I have an educational background in political science and data science. I use Python, R, stata, SAS, and statistical modeling to turn complex data into clear, actionable insights.  
 
 ### Projects
 ### [Vote Choice and Personal Characteristics Analysis](https://github.com/antonycj/Candidate-Perception-and-Vote-Choice/)
